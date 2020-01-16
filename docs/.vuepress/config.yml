@@ -1,0 +1,14 @@
+title: Wetoria
+description: Fake it until become it
+markdown:
+  lineNumbers: true
+
+themeConfig: 
+  displayAllHeaders: true
+  lastUpdated: 'Last Updated'
+  github: https://github.com/Wetoria
+
+configureWebpack:
+  resolve:
+    alias:
+      '@public': './public'

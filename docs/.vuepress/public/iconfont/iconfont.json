@@ -1,0 +1,16 @@
+{
+  "id": "1610751",
+  "name": "wetoria",
+  "font_family": "iconfont",
+  "css_prefix_text": "v-",
+  "description": "VuePress-theme-Wetoria",
+  "glyphs": [
+    {
+      "icon_id": "1261752",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    }
+  ]
+}
